@@ -1,0 +1,484 @@
+{
+	"matches": [
+		{
+			"homeTeam": "MI",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "September 19th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "DC",
+			"awayTeam": "KXP",
+			"selectedTeam": "TBD",
+			"date": "September 20th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "SRH",
+			"awayTeam": "RCB",
+			"selectedTeam": "TBD",
+			"date": "September 21st",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "RR",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "September 22nd",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "MI",
+			"selectedTeam": "TBD",
+			"date": "September 23rd",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "KXP",
+			"awayTeam": "RCB",
+			"selectedTeam": "TBD",
+			"date": "September 24th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "CSK",
+			"awayTeam": "DC",
+			"selectedTeam": "TBD",
+			"date": "September 25ht",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "SRH",
+			"selectedTeam": "TBD",
+			"date": "September 26th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "RR",
+			"awayTeam": "KXP",
+			"selectedTeam": "TBD",
+			"date": "September 27th",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "MI",
+			"selectedTeam": "TBD",
+			"date": "September 28th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "DC",
+			"awayTeam": "SRH",
+			"selectedTeam": "TBD",
+			"date": "September 29th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},,
+		{
+			"homeTeam": "RR",
+			"awayTeam": "KKR",
+			"selectedTeam": "TBD",
+			"date": "September 30th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "KXP",
+			"awayTeam": "MI",
+			"selectedTeam": "TBD",
+			"date": "October 1st",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "CSK",
+			"awayTeam": "SRH",
+			"selectedTeam": "TBD",
+			"date": "October 2nd",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "RR",
+			"selectedTeam": "TBD",
+			"date": "October 3rd",
+			"time": "3:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 3rd",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 4th",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "KXP",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 4th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "DC",
+			"selectedTeam": "TBD",
+			"date": "October 5th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "MI",
+			"awayTeam": "RR",
+			"selectedTeam": "TBD",
+			"date": "October 6th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 7th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "SRH",
+			"awayTeam": "KXP",
+			"selectedTeam": "TBD",
+			"date": "October 8th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "RR",
+			"awayTeam": "DC",
+			"selectedTeam": "TBD",
+			"date": "October 9th",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "KXP",
+			"awayTeam": "KKR",
+			"selectedTeam": "TBD",
+			"date": "October 10th",
+			"time": "3:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "CSK",
+			"awayTeam": "RCB",
+			"selectedTeam": "TBD",
+			"date": "October 10th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 11th",
+			"time": "3:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "MI",
+			"awayTeam": "DC",
+			"selectedTeam": "TBD",
+			"date": "October 11th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "KKR",
+			"selectedTeam": "TBD",
+			"date": "October 12th",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "SRH",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 13th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "DC",
+			"awayTeam": "RR",
+			"selectedTeam": "TBD",
+			"date": "October 14th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "KXP",
+			"selectedTeam": "TBD",
+			"date": "October 15th",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "MI",
+			"awayTeam": "KKR",
+			"selectedTeam": "TBD",
+			"date": "October 16th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "RR",
+			"awayTeam": "RCB",
+			"selectedTeam": "TBD",
+			"date": "October 17th",
+			"time": "3:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "DC",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 17th",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 18th",
+			"time": "3:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "MI",
+			"awayTeam": "KXP",
+			"selectedTeam": "TBD",
+			"date": "October 18th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "CSK",
+			"awayTeam": "RR",
+			"selectedTeam": "TBD",
+			"date": "October 19th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "KXP",
+			"awayTeam": "DC",
+			"selectedTeam": "TBD",
+			"date": "October 20th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "RCB",
+			"selectedTeam": "TBD",
+			"date": "October 21st",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "RR",
+			"awayTeam": "SRH",
+			"selectedTeam": "TBD",
+			"date": "October 22nd",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "CSK",
+			"awayTeam": "MI",
+			"selectedTeam": "TBD",
+			"date": "October 23rd",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "DC",
+			"selectedTeam": "TBD",
+			"date": "October 24th",
+			"time": "3:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "KXP",
+			"awayTeam": "SRH",
+			"selectedTeam": "TBD",
+			"date": "October 24th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "CSK",
+			"selectedTeam": "TBD",
+			"date": "October 25th",
+			"time": "3:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "RR",
+			"awayTeam": "MI",
+			"selectedTeam": "TBD",
+			"date": "October 25th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "KXP",
+			"selectedTeam": "TBD",
+			"date": "October 26th",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "SRH",
+			"awayTeam": "DC",
+			"selectedTeam": "TBD",
+			"date": "October 27th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "MI",
+			"awayTeam": "RCB",
+			"selectedTeam": "TBD",
+			"date": "October 28th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "CSK",
+			"awayTeam": "KKR",
+			"selectedTeam": "TBD",
+			"date": "October 29th",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "KXP",
+			"awayTeam": "RR",
+			"selectedTeam": "TBD",
+			"date": "October 30th",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "DC",
+			"awayTeam": "MI",
+			"selectedTeam": "TBD",
+			"date": "October 31st",
+			"time": "3:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "RCB",
+			"awayTeam": "SRH",
+			"selectedTeam": "TBD",
+			"date": "October 31st",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "CSK",
+			"awayTeam": "KXP",
+			"selectedTeam": "TBD",
+			"date": "November 1st",
+			"time": "3:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "KKR",
+			"awayTeam": "RR",
+			"selectedTeam": "TBD",
+			"date": "November 1st",
+			"time": "7:30 PM",
+			"venue": "Dubai"
+		},
+		{
+			"homeTeam": "DC",
+			"awayTeam": "RCB",
+			"selectedTeam": "TBD",
+			"date": "November 2nd",
+			"time": "7:30 PM",
+			"venue": "Abu Dhabi"
+		},
+		{
+			"homeTeam": "SRH",
+			"awayTeam": "MI",
+			"selectedTeam": "TBD",
+			"date": "November 3rd",
+			"time": "7:30 PM",
+			"venue": "Sharjah"
+		},
+		{
+			"homeTeam": "TBD",
+			"awayTeam": "TBD",
+			"selectedTeam": "TBD",
+			"date": "TBD",
+			"time": "7:30 PM",
+			"venue": "TBD"
+		},
+		{
+			"homeTeam": "TBD",
+			"awayTeam": "TBD",
+			"selectedTeam": "TBD",
+			"date": "TBD",
+			"time": "7:30 PM",
+			"venue": "TBD"
+		},
+		{
+			"homeTeam": "TBD",
+			"awayTeam": "TBD",
+			"selectedTeam": "TBD",
+			"date": "TBD",
+			"time": "7:30 PM",
+			"venue": "TBD"
+		},
+		{
+			"homeTeam": "TBD",
+			"awayTeam": "TBD",
+			"selectedTeam": "TBD",
+			"date": "TBD",
+			"time": "7:30 PM",
+			"venue": "TBD"
+		}
+	]
+}
