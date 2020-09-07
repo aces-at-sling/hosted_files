@@ -121,19 +121,19 @@
 			"venue": "Abu Dhabi"
 		},
 		{
-			"homeTeam": "RCB",
-			"awayTeam": "CSK",
+			"homeTeam": "DC",
+			"awayTeam": "KKR",
 			"selectedTeam": "TBD",
 			"date": "October 3rd",
 			"time": "7:30 PM",
 			"venue": "Sharjah"
 		},
 		{
-			"homeTeam": "RCB",
-			"awayTeam": "CSK",
+			"homeTeam": "MI",
+			"awayTeam": "SRH",
 			"selectedTeam": "TBD",
 			"date": "October 4th",
-			"time": "7:30 PM",
+			"time": "3:30 PM",
 			"venue": "Sharjah"
 		},
 		{
