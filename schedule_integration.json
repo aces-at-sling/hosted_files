@@ -1,11 +1,12 @@
 {
-	"matches": {"1": 
-		{
+	"matches": {
+		"1": {
 			"homeTeam": "MI",
 			"awayTeam": "CSK",
 			"selectedTeam": "TBD",
 			"date": "September 19th",
 			"time": "7:30 PM",
+			"startTime": "1600524000000",
 			"venue": "Abu Dhabi"
 		},
 		"2": {
@@ -14,6 +15,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 20th",
 			"time": "7:30 PM",
+			"startTime": "1600610400000",
 			"venue": "Dubai"
 		},
 		"3": {
@@ -22,6 +24,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 21st",
 			"time": "7:30 PM",
+			"startTime": "1600696800000",
 			"venue": "Dubai"
 		},
 		"4": {
@@ -30,6 +33,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 22nd",
 			"time": "7:30 PM",
+			"startTime": "1600783200000",
 			"venue": "Abu Dhabi"
 		},
 		"5": {
@@ -38,6 +42,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 23rd",
 			"time": "7:30 PM",
+			"startTime": "1600869600000",
 			"venue": "Abu Dhabi"
 		},
 		"6": {
@@ -46,14 +51,16 @@
 			"selectedTeam": "TBD",
 			"date": "September 24th",
 			"time": "7:30 PM",
+			"startTime": "1600956000000",
 			"venue": "Dubai"
 		},
 		"7": {
 			"homeTeam": "CSK",
 			"awayTeam": "DC",
 			"selectedTeam": "TBD",
-			"date": "September 25ht",
+			"date": "September 25th",
 			"time": "7:30 PM",
+			"startTime": "1601042400000",
 			"venue": "Dubai"
 		},
 		"8": {
@@ -62,6 +69,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 26th",
 			"time": "7:30 PM",
+			"startTime": "1601128800000",
 			"venue": "Abu Dhabi"
 		},
 		"9": {
@@ -70,6 +78,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 27th",
 			"time": "7:30 PM",
+			"startTime": "1601215200000",
 			"venue": "Sharjah"
 		},
 		"10": {
@@ -78,6 +87,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 28th",
 			"time": "7:30 PM",
+			"startTime": "1601301600000",
 			"venue": "Dubai"
 		},
 		"11": {
@@ -86,6 +96,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 29th",
 			"time": "7:30 PM",
+			"startTime": "1601388000000",
 			"venue": "Abu Dhabi"
 		},
 		"12": {
@@ -94,6 +105,7 @@
 			"selectedTeam": "TBD",
 			"date": "September 30th",
 			"time": "7:30 PM",
+			"startTime": "1601474400000",
 			"venue": "Dubai"
 		},
 		"13": {
@@ -102,6 +114,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 1st",
 			"time": "7:30 PM",
+			"startTime": "1601560800000",
 			"venue": "Abu Dhabi"
 		},
 		"14": {
@@ -110,6 +123,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 2nd",
 			"time": "7:30 PM",
+			"startTime": "1601647200000",
 			"venue": "Dubai"
 		},
 		"15": {
@@ -118,6 +132,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 3rd",
 			"time": "3:30 PM",
+			"startTime": "1601719200000",
 			"venue": "Abu Dhabi"
 		},
 		"16": {
@@ -126,6 +141,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 3rd",
 			"time": "7:30 PM",
+			"startTime": "1601733600000",
 			"venue": "Sharjah"
 		},
 		"17": {
@@ -134,6 +150,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 4th",
 			"time": "3:30 PM",
+			"startTime": "1601805600000",
 			"venue": "Sharjah"
 		},
 		"18": {
@@ -142,6 +159,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 4th",
 			"time": "7:30 PM",
+			"startTime": "1601820000000",
 			"venue": "Dubai"
 		},
 		"19": {
@@ -150,6 +168,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 5th",
 			"time": "7:30 PM",
+			"startTime": "1601906400000",
 			"venue": "Dubai"
 		},
 		"20": {
@@ -158,6 +177,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 6th",
 			"time": "7:30 PM",
+			"startTime": "1601992800000",
 			"venue": "Abu Dhabi"
 		},
 		"21": {
@@ -166,6 +186,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 7th",
 			"time": "7:30 PM",
+			"startTime": "1602079200000",
 			"venue": "Abu Dhabi"
 		},
 		"22": {
@@ -174,6 +195,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 8th",
 			"time": "7:30 PM",
+			"startTime": "1602165600000",
 			"venue": "Dubai"
 		},
 		"23": {
@@ -182,6 +204,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 9th",
 			"time": "7:30 PM",
+			"startTime": "1602252000000",
 			"venue": "Sharjah"
 		},
 		"24": {
@@ -190,6 +213,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 10th",
 			"time": "3:30 PM",
+			"startTime": "1602324000000",
 			"venue": "Abu Dhabi"
 		},
 		"25": {
@@ -198,6 +222,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 10th",
 			"time": "7:30 PM",
+			"startTime": "1602338400000",
 			"venue": "Dubai"
 		},
 		"26": {
@@ -206,6 +231,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 11th",
 			"time": "3:30 PM",
+			"startTime": "1602410400000",
 			"venue": "Dubai"
 		},
 		"27": {
@@ -214,6 +240,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 11th",
 			"time": "7:30 PM",
+			"startTime": "1602424800000",
 			"venue": "Abu Dhabi"
 		},
 		"28": {
@@ -222,6 +249,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 12th",
 			"time": "7:30 PM",
+			"startTime": "1602511200000",
 			"venue": "Sharjah"
 		},
 		"29": {
@@ -230,6 +258,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 13th",
 			"time": "7:30 PM",
+			"startTime": "1602597600000",
 			"venue": "Dubai"
 		},
 		"30": {
@@ -238,6 +267,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 14th",
 			"time": "7:30 PM",
+			"startTime": "1602684000000",
 			"venue": "Dubai"
 		},
 		"31": {
@@ -246,6 +276,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 15th",
 			"time": "7:30 PM",
+			"startTime": "1602770400000",
 			"venue": "Sharjah"
 		},
 		"32": {
@@ -254,6 +285,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 16th",
 			"time": "7:30 PM",
+			"startTime": "1602856800000",
 			"venue": "Abu Dhabi"
 		},
 		"33": {
@@ -262,6 +294,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 17th",
 			"time": "3:30 PM",
+			"startTime": "1602928800000",
 			"venue": "Dubai"
 		},
 		"34": {
@@ -270,6 +303,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 17th",
 			"time": "7:30 PM",
+			"startTime": "1602943200000",
 			"venue": "Sharjah"
 		},
 		"35": {
@@ -278,6 +312,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 18th",
 			"time": "3:30 PM",
+			"startTime": "1603015200000",
 			"venue": "Abu Dhabi"
 		},
 		"36": {
@@ -286,6 +321,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 18th",
 			"time": "7:30 PM",
+			"startTime": "1603029600000",
 			"venue": "Dubai"
 		},
 		"37": {
@@ -294,6 +330,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 19th",
 			"time": "7:30 PM",
+			"startTime": "1603116000000",
 			"venue": "Abu Dhabi"
 		},
 		"38": {
@@ -302,6 +339,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 20th",
 			"time": "7:30 PM",
+			"startTime": "1603202400000",
 			"venue": "Dubai"
 		},
 		"39": {
@@ -310,6 +348,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 21st",
 			"time": "7:30 PM",
+			"startTime": "1603288800000",
 			"venue": "Abu Dhabi"
 		},
 		"40": {
@@ -318,6 +357,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 22nd",
 			"time": "7:30 PM",
+			"startTime": "1603375200000",
 			"venue": "Dubai"
 		},
 		"41": {
@@ -326,6 +366,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 23rd",
 			"time": "7:30 PM",
+			"startTime": "1603461600000",
 			"venue": "Sharjah"
 		},
 		"42": {
@@ -334,6 +375,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 24th",
 			"time": "3:30 PM",
+			"startTime": "1603533600000",
 			"venue": "Abu Dhabi"
 		},
 		"43": {
@@ -342,6 +384,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 24th",
 			"time": "7:30 PM",
+			"startTime": "1603548000000",
 			"venue": "Dubai"
 		},
 		"44": {
@@ -350,6 +393,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 25th",
 			"time": "3:30 PM",
+			"startTime": "1603620000000",
 			"venue": "Dubai"
 		},
 		"45": {
@@ -358,6 +402,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 25th",
 			"time": "7:30 PM",
+			"startTime": "1603634400000",
 			"venue": "Abu Dhabi"
 		},
 		"46": {
@@ -366,6 +411,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 26th",
 			"time": "7:30 PM",
+			"startTime": "1603720800000",
 			"venue": "Sharjah"
 		},
 		"47": {
@@ -374,6 +420,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 27th",
 			"time": "7:30 PM",
+			"startTime": "1603807200000",
 			"venue": "Dubai"
 		},
 		"48": {
@@ -382,6 +429,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 28th",
 			"time": "7:30 PM",
+			"startTime": "1603893600000",
 			"venue": "Abu Dhabi"
 		},
 		"49": {
@@ -390,6 +438,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 29th",
 			"time": "7:30 PM",
+			"startTime": "1603980000000",
 			"venue": "Dubai"
 		},
 		"50": {
@@ -398,6 +447,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 30th",
 			"time": "7:30 PM",
+			"startTime": "1604066400000",
 			"venue": "Abu Dhabi"
 		},
 		"51": {
@@ -406,6 +456,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 31st",
 			"time": "3:30 PM",
+			"startTime": "1604138400000",
 			"venue": "Dubai"
 		},
 		"52": {
@@ -414,6 +465,7 @@
 			"selectedTeam": "TBD",
 			"date": "October 31st",
 			"time": "7:30 PM",
+			"startTime": "1604152800000",
 			"venue": "Sharjah"
 		},
 		"53": {
@@ -422,6 +474,7 @@
 			"selectedTeam": "TBD",
 			"date": "November 1st",
 			"time": "3:30 PM",
+			"startTime": "1604224800000",
 			"venue": "Abu Dhabi"
 		},
 		"54": {
@@ -430,6 +483,7 @@
 			"selectedTeam": "TBD",
 			"date": "November 1st",
 			"time": "7:30 PM",
+			"startTime": "1604239200000",
 			"venue": "Dubai"
 		},
 		"55": {
@@ -438,6 +492,7 @@
 			"selectedTeam": "TBD",
 			"date": "November 2nd",
 			"time": "7:30 PM",
+			"startTime": "1604325600000",
 			"venue": "Abu Dhabi"
 		},
 		"56": {
@@ -446,6 +501,7 @@
 			"selectedTeam": "TBD",
 			"date": "November 3rd",
 			"time": "7:30 PM",
+			"startTime": "1604412000000",
 			"venue": "Sharjah"
 		},
 		"57": {
@@ -454,6 +510,7 @@
 			"selectedTeam": "TBD",
 			"date": "TBD",
 			"time": "7:30 PM",
+			"startTime": "TBD",
 			"venue": "TBD"
 		},
 		"58": {
@@ -462,6 +519,7 @@
 			"selectedTeam": "TBD",
 			"date": "TBD",
 			"time": "7:30 PM",
+			"startTime": "TBD",
 			"venue": "TBD"
 		},
 		"59": {
@@ -470,6 +528,7 @@
 			"selectedTeam": "TBD",
 			"date": "TBD",
 			"time": "7:30 PM",
+			"startTime": "TBD",
 			"venue": "TBD"
 		},
 		"60": {
@@ -478,6 +537,7 @@
 			"selectedTeam": "TBD",
 			"date": "TBD",
 			"time": "7:30 PM",
+			"startTime": "TBD",
 			"venue": "TBD"
 		}
 	}
