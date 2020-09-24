@@ -15,7 +15,7 @@ data = {}
 
 data["type"] = "com.aces.iplapp.IplPointsTable"
 
-page = requests.get("https://www.cricbuzz.com/cricket-series/3130/indian-premier-league-2020/points-table")
+page = requests.get("http://www.cricbuzz.com/cricket-series/3130/indian-premier-league-2020/points-table")
 
 teamShortName = {"Mumbai Indians": "MI", "Royal Challengers Bangalore": "RCB", "Kings XI Punjab": "KXP", "Rajasthan Royals": "RR", "Delhi Capitals": "DC", "Sunrisers Hyderabad": "SRH", "Chennai Super Kings":"CSK", "Kolkata Knight Riders": "KKR"}
 
