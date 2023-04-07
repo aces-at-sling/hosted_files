@@ -42,15 +42,20 @@ nrr = map(float,np_pnt_tbl[:,6])
 
 arr = []
 
-for i in range(len(matches)):
+winList = list(wins)
+matchList = list(matches)
+lossesList = list(losses)
+ptsList = list(pts)
+nrrList = list(nrr)
+for i in range(10):
     temp = {}
     temp["teamName"] = teamShortName[str(team_names[i])]
-    temp ["matches"] = matches[i]
-    temp["wins"] = wins[i]
-    temp["losses"] = losses[i]
-    temp["totalPoints"] = pts[i]
-    temp["netRunRate"] = nrr[i]
-    print temp
+    temp ["matches"] = matchList[i]
+    temp["wins"] = winList[i]
+    temp["losses"] = lossesList[i]
+    temp["totalPoints"] = ptsList[i]
+    temp["netRunRate"] = nrrList[i]
+    print(temp)
     arr.append(temp)
 data["PointsTable"] = arr
 json_data = json.dumps(data)
