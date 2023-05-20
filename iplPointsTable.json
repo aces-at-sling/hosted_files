@@ -1,1 +1,85 @@
-{"type": "com.aces.iplapp.IplPointsTable", "PointsTable": [{"teamName": "GT", "matches": 11, "wins": 8, "losses": 3, "totalPoints": 16, "netRunRate": 0.951}, {"teamName": "CSK", "matches": 11, "wins": 6, "losses": 4, "totalPoints": 13, "netRunRate": 0.409}, {"teamName": "MI", "matches": 11, "wins": 6, "losses": 5, "totalPoints": 12, "netRunRate": -0.255}, {"teamName": "LSG", "matches": 11, "wins": 5, "losses": 5, "totalPoints": 11, "netRunRate": 0.294}, {"teamName": "RR", "matches": 11, "wins": 5, "losses": 6, "totalPoints": 10, "netRunRate": 0.388}, {"teamName": "KKR", "matches": 11, "wins": 5, "losses": 6, "totalPoints": 10, "netRunRate": -0.079}, {"teamName": "RCB", "matches": 11, "wins": 5, "losses": 6, "totalPoints": 10, "netRunRate": -0.345}, {"teamName": "PBKS", "matches": 11, "wins": 5, "losses": 6, "totalPoints": 10, "netRunRate": -0.441}, {"teamName": "SRH", "matches": 10, "wins": 4, "losses": 6, "totalPoints": 8, "netRunRate": -0.472}, {"teamName": "DC", "matches": 10, "wins": 4, "losses": 6, "totalPoints": 8, "netRunRate": -0.529}]}
+{
+    "type": "com.aces.iplapp.IplPointsTable",
+    "PointsTable": [
+        {
+            "teamName": "GT",
+            "matches": 13,
+            "wins": 9,
+            "losses": 4,
+            "totalPoints": 18,
+            "netRunRate": 0.835
+        },
+        {
+            "teamName": "CSK",
+            "matches": 14,
+            "wins": 8,
+            "losses": 5,
+            "totalPoints": 17,
+            "netRunRate": 0.652
+        },
+        {
+            "teamName": "LSG",
+            "matches": 13,
+            "wins": 7,
+            "losses": 5,
+            "totalPoints": 15,
+            "netRunRate": 0.304
+        },
+        {
+            "teamName": "RCB",
+            "matches": 13,
+            "wins": 7,
+            "losses": 6,
+            "totalPoints": 14,
+            "netRunRate": 0.180
+        },
+        {
+            "teamName": "RR",
+            "matches": 14,
+            "wins": 7,
+            "losses": 7,
+            "totalPoints": 14,
+            "netRunRate": 0.148
+        },
+        {
+            "teamName": "MI",
+            "matches": 13,
+            "wins": 7,
+            "losses": 6,
+            "totalPoints": 14,
+            "netRunRate": -0.128
+        },
+        {
+            "teamName": "KKR",
+            "matches": 13,
+            "wins": 6,
+            "losses": 7,
+            "totalPoints": 12,
+            "netRunRate": -0.256
+        },
+        {
+            "teamName": "PBKS",
+            "matches": 14,
+            "wins": 6,
+            "losses": 8,
+            "totalPoints": 12,
+            "netRunRate": -0.304
+        },
+        {
+            "teamName": "DC",
+            "matches": 14,
+            "wins": 5,
+            "losses": 9,
+            "totalPoints": 10,
+            "netRunRate": -0.808
+        },
+        {
+            "teamName": "SRH",
+            "matches": 13,
+            "wins": 4,
+            "losses": 9,
+            "totalPoints": 8,
+            "netRunRate": -0.558
+        }
+    ]
+}
